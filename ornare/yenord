@@ -27,3 +27,5 @@ Integer egestas vel arcu a facilisis. Donec tellus nibh, posuere id molestie non
 Pellentesque nec pellentesque ipsum. Integer id turpis eu metus laoreet lacinia. Nulla facilisi. Fusce feugiat congue hendrerit. Nam interdum condimentum ante pulvinar lacinia. Etiam sed turpis felis. Morbi lobortis vehicula elementum.
 
 Proin dapibus, orci id ornare consequat, enim est sollicitudin orci, eget volutpat massa arcu eget neque. Mauris at tellus sed est placerat porta. Suspendisse pulvinar neque id orci lacinia ultrices. Vestibulum commodo sodales nunc et rutrum. Mauris et massa vitae sapien sodales consectetur eget at purus. Phasellus at est convallis, maximus erat et, viverra sem. Aenean viverra eget ipsum et venenatis. Donec mauris mauris, pellentesque eget blandit pharetra, viverra in ante.
+
+Text from master branch should be combined with this one "viverra eros". All texts should be concatenated together with no characters between them.
